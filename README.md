@@ -23,31 +23,24 @@ To use the application online, go to https://nameless-island-19052.herokuapp.com
 Click the " Get Started" button on the landing page.
 
 ![image](https://user-images.githubusercontent.com/122234007/229909724-d8fef0eb-315b-4b96-beea-158f415bf0f1.png)
-
 The main page is displayed, with existing notes listed in the left-hand column, and empty fields to enter a new note title and text in the right-hand column.
 
 ![image](https://user-images.githubusercontent.com/122234007/229909993-0c2761bb-9c37-46e7-8600-0c05c006f777.png)
-
 Enter a title and text for a new note, then click the Save icon in the navigation bar at the top of the page.
 
 ![image](https://user-images.githubusercontent.com/122234007/229911224-b9cfe967-0116-45c6-8071-d7c0b5e16c8b.png)
-
 The new note is saved and appears in the left-hand column with the other existing notes.
 
 ![image](https://user-images.githubusercontent.com/122234007/229912496-a620d260-eb60-4135-9446-d9d676d7b7ac.png)
-
 Clicking on an existing note in the list in the left-hand column makes that note appear in the right-hand column.
 
 ![image](https://user-images.githubusercontent.com/122234007/229912778-e096ee3b-3e11-4b63-a5e9-8199bbac9ac1.png)
-
 To clear the contents of the right-hand column, click on the Write icon in the navigation at the top of the page. The input fields are once again empty and ready for a new note to be input.
 
 ![image](https://user-images.githubusercontent.com/122234007/229915112-d83fd975-e65d-41c4-9a5d-fceecad49435.png)
-
 Click the delete icon next to a note you want to delete and it will be removed from the list. 
 
 ![image](https://user-images.githubusercontent.com/122234007/229916015-11239303-f223-4a9b-9621-0a904e0b2fa1.png)
-
 
 ## Tests
 
