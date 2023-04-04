@@ -2,7 +2,7 @@
 
 This application ccan be used to write and save notes. It uses an Express.js back end to save and retrieve note data from a JSON file. The entire application is deployed via Heroku.
 
-
+https://github.com/mathminx/note-taker-11/blob/main/public/assets/images/landing%20page.png
 
 
 ## Table of Contents
