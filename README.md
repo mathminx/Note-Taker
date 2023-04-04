@@ -1,6 +1,6 @@
 # Note Taker 11
 
-This application ccan be used to write and save notes. It uses an Express.js back end to save and retrieve note data from a JSON file. The entire application is deployed via Heroku.
+This application enables a user to write and save notes in order to keep track of tasks to be competed. It uses an Express.js back end to save and retrieve note data to and from a JSON file. The user can also delete notes once they are no longer needed. The entire application is deployed via Heroku.
 
 ![image](https://user-images.githubusercontent.com/122234007/229907492-73e948e3-45d1-4f8c-8e2c-07c5d801cd6d.png)
 
@@ -15,18 +15,40 @@ This application ccan be used to write and save notes. It uses an Express.js bac
  
 ## Installation
   
-Install dependencies by running `npm install` followed by `npm i inquirer@8.2.4`.
+To install locally, load dependencies by running `npm install`, followed by `node server.js` to start the apllication.
+
+To use the application online, go to https://nameless-island-19052.herokuapp.com/
 
 
 ## Usage
 
-https://watch.screencastify.com/v/cDiv11qbhrJSEBzs7Dx0
+Click the " Get Started" button on the landing page.
 
+![image](https://user-images.githubusercontent.com/122234007/229909724-d8fef0eb-315b-4b96-beea-158f415bf0f1.png)
 
-The application is invoked by running the following command: `node index.js`.
-The user is prompted to input text for the logo (maximum 3 characters), select a shape from a list (circle, square, or triangle) and specify two colours (colour keyword OR a hexadecimal number) - one colour for the shape and another for the text. 
-Based on the user input, the application generates a string that defines the logo, saves it to an SVG file `(logo.svg)`, and prints `Generated logo.svg` in the command line.
-When the `logo.svg` file is opened in a browser, a 300x200 pixel image matching the criteria entered is displayed
+The main page is displayed, with existing notes listed in the left-hand column, and empty fields to enter a new note title and text in the right-hand column.
+
+![image](https://user-images.githubusercontent.com/122234007/229909993-0c2761bb-9c37-46e7-8600-0c05c006f777.png)
+
+Enter a title and text for a new note, then click the Save icon in the navigation bar at the top of the page.
+
+![image](https://user-images.githubusercontent.com/122234007/229911224-b9cfe967-0116-45c6-8071-d7c0b5e16c8b.png)
+
+The new note is saved and appears in the left-hand column with the other existing notes.
+
+![image](https://user-images.githubusercontent.com/122234007/229912496-a620d260-eb60-4135-9446-d9d676d7b7ac.png)
+
+Clicking on an existing note in the list in the left-hand column makes that note appear in the right-hand column.
+
+![image](https://user-images.githubusercontent.com/122234007/229912778-e096ee3b-3e11-4b63-a5e9-8199bbac9ac1.png)
+
+To clear the contents of the right-hand column, click on the Write icon in the navigation at the top of the page. The input fields are once again empty and ready for a new note to be input.
+
+![image](https://user-images.githubusercontent.com/122234007/229915112-d83fd975-e65d-41c4-9a5d-fceecad49435.png)
+
+Click the delete icon next to a note you want to delete and it will be removed from the list. 
+
+![image](https://user-images.githubusercontent.com/122234007/229916015-11239303-f223-4a9b-9621-0a904e0b2fa1.png)
 
 
 ## Tests
