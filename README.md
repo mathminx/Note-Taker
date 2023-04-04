@@ -4,8 +4,6 @@ This application enables a user to write and save notes in order to keep track o
 
 ![image](https://user-images.githubusercontent.com/122234007/229907492-73e948e3-45d1-4f8c-8e2c-07c5d801cd6d.png)
 
-
-
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
