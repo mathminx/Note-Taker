@@ -38,7 +38,7 @@ Clicking on an existing note in the list in the left-hand column makes that note
 To clear the contents of the right-hand column, click on the Write icon in the navigation at the top of the page. The input fields are once again empty and ready for a new note to be input.
 
 ![image](https://user-images.githubusercontent.com/122234007/229915112-d83fd975-e65d-41c4-9a5d-fceecad49435.png)
-Click the delete icon next to a note you want to delete and it will be removed from the list. 
+To delete a note, click the delete icon next to the note you want to delete, and it is removed from the list. 
 
 ![image](https://user-images.githubusercontent.com/122234007/229916015-11239303-f223-4a9b-9621-0a904e0b2fa1.png)
 
