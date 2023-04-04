@@ -44,9 +44,7 @@ To delete a note, click the delete icon next to the note you want to delete, and
 
 ## Tests
 
- Unit tests for the creation of the shapes can be found in shapes.tests.js and run using Jest. To run the tests, type 
- `npm run test`
-
+ Tests for GET, POST, and DELETE requests were tested locally using Insomnia.
 
  ## License
 
