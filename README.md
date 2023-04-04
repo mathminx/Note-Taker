@@ -44,7 +44,7 @@ To delete a note, click the delete icon next to the note you want to delete, and
 
 ## Tests
 
- Tests for GET, POST, and DELETE requests were tested locally using Insomnia.
+ Tests for `GET`, `POST`, and `DELETE` requests were tested locally using Insomnia.
 
  ## License
 
