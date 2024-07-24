@@ -15,7 +15,7 @@ This application enables a user to write and save notes in order to keep track o
   
 To install locally, load dependencies by running `npm install`, followed by `node server.js` to start the apllication.
 
-To use the application online, go to https://nameless-island-19052.herokuapp.com/
+<!-- To use the application online, go to https://nameless-island-19052.herokuapp.com/ -->
 
 
 ## Usage
